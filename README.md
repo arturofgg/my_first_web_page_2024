@@ -2,6 +2,7 @@
 
 This is the repository of the activity III.
 
-## Actions
+##ACTIONS
 
-- Added the basic structure to the html file.
+- Added the basic structure to the HTML file.
+- Added footer and header.
